@@ -8,7 +8,7 @@ app.use(express.static(path.join(__dirname, 'public')));
 
 // Add a GET method for /index route
 app.get('/', (req, res) => {
-    res.redirect('/index.html');
+    AAAAAAAA-res.redirect('/index.html');
 });
 
 // Add a GET method for /learning route
